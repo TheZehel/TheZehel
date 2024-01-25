@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning Javascript, Node.js, Nest.js, Typescript, MongoDB, Docker and Python for Data Science.
 
-<p align="left">Hi, My Nickname is @TheZehel and my name is Allison! Nice to meet you!!<br><br>👀 I’m interested in Cybersecurity and Back-End.<br><br>🌱 I’m currently learning Javascript, Node.js, Nest.js, Typescript, MongoDB, Docker and Python for Data Science.</p>
-
 ###
 
 <div align="left">
@@ -29,6 +27,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TheZehel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheZehel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=TheZehel&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheZehel&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
