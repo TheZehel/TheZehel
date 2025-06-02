@@ -8,22 +8,16 @@
   - React Native e Go
 - 🎯 Apesar de minhas competências técnicas, meu foco está na estratégia de projeto, arquitetura e coordenação utilizando metodologias ágeis.
 
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+![AWS](https://skillicons.dev/icons?i=aws)
+![GCP](https://skillicons.dev/icons?i=gcp)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Prisma](https://skillicons.dev/icons?i=prisma)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![React Native](https://skillicons.dev/icons?i=react)
+![Go](https://skillicons.dev/icons?i=go)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" alt="redhat logo"  />
-</div>
 
 ###
 
