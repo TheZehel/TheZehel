@@ -1,10 +1,13 @@
-## Hi, My Nickname is @TheZehel and my name is Allison! Nice to meet you!!
+## Olá, meu apelido é @TheZehel e meu nome é Allison! Prazer em conhecê-lo!!
 
-- 👀 I’m interested in Cybersecurity, Back-End and Software engineering.
+- 👨‍💻 Sou Tech Lead na Prime Secure.
+- 💻 Habilidades Técnicas:
+  - Avançado em JavaScript
+  - Intermediário em TypeScript, AWS e GCP
+  - Avançado em MongoDB, Prisma e PostgreSQL
+  - React Native e Go
+- 🎯 Apesar de minhas competências técnicas, meu foco está na estratégia de projeto, arquitetura e coordenação utilizando metodologias ágeis.
 
-- 🌱 I’m currently learning Javascript, Node.js, Nest.js, Typescript, MongoDB, Docker and Python for Data Science.
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
