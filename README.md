@@ -1,57 +1,30 @@
-# Olá, eu sou o Allison Yuri (@TheZehel)
+# Allison Yuri
 
-Sou Tech Lead na [Prime Secure](https://www.primesecure.com.br), liderando projetos estratégicos de seguros digitais com foco em inovação, escalabilidade e performance. Com uma base sólida em desenvolvimento full stack, minha missão é alinhar tecnologia ao negócio, arquitetando soluções robustas e orientadas ao cliente.
+**Tech Lead na [Prime Secure](https://www.primesecure.com.br/) · CEO & Founder da [Illumitech](https://www.illumitech.com.br/)**
 
----
+Conecto estratégia de negócio, produto e engenharia para criar sistemas que possam crescer com controle. Hoje exerço dois papéis complementares: lidero decisões técnicas e entregas na Prime Secure; na Illumitech, defino visão, produto e direção tecnológica.
 
-## Atuação
-- Liderança técnica de squads multidisciplinares  
-- Definição de arquitetura escalável e segura (Cloud-first)  
-- Adoção de metodologias ágeis (Scrum, Kanban e OKRs) 
+## O que estou construindo
 
----
+**Na Prime Secure**, lidero a evolução de jornadas digitais e integrações no mercado de seguros. É um contexto em que experiência do cliente, regras de negócio, segurança e confiabilidade precisam funcionar juntas — inclusive depois que o produto entra em operação.
 
-## Habilidades Técnicas
+**Na Illumitech**, construo um software studio que desenvolve produtos próprios e soluções digitais para empresas. Nosso trabalho vai da definição do problema à arquitetura, à entrega e à evolução do produto. O IllumiFlow faz parte desse ecossistema, com foco em automação inteligente de processos e agentes.
 
-**Liderança e Arquitetura**  
-- Arquitetura orientada a serviços (microserviços e serverless)  
-- Planejamento estratégico e definição de roadmap  
-- Gestão de versionamento, deploy e observabilidade (CI/CD, GitOps, etc.)  
+## Como penso arquitetura
 
-**Desenvolvimento**  
-- Frontend: Next, React, JavaScript, TypeScript 
-- Backend: Go, Node.js, Python  
-- Banco de Dados: PostgreSQL, MongoDB, Prisma  
+Para mim, arquitetura é uma forma de dar sustentação às decisões de negócio. Alguns exemplos do que isso significa na prática:
 
-**Cloud e DevOps**  
-- AWS (Lambda, EKS, ECS, ECR, SES, SNS, SQS, S3, VPC, ALB, API Gateway, EC2)  
-- Google Cloud (App Engine, Firestore, Clou Run)  
-- GitHub Actions, Docker, Vercel  
+- **Em seguros digitais:** desenhar contratos de API e integrações que tornem estados de negócio, falhas e decisões rastreáveis. Isso permite evoluir jornadas sem perder controle operacional.
+- **Em produtos SaaS com IA:** definir limites entre organizações, proteger dados e combinar automação com regras claras e revisão humana quando necessário.
+- **Na entrega:** conectar qualidade, segurança, observabilidade e CI/CD para que o sistema possa ser operado e melhorado continuamente.
 
-**Ferramentas & Metodologias**  
-- Notion & OKRs  
-- Git, Git Flow, ESLint, Prettier  
+Minha atuação técnica passa por `TypeScript`, `Node.js`, `React`, `Next.js`, `Go` e `Python`, além de `AWS`, `Docker`, `PostgreSQL`, `MongoDB` e `GitHub Actions`. Escolho ferramentas pelo problema que resolvem e pela capacidade de manter o produto sustentável ao longo do tempo.
 
----
+## Illumitech e projetos
+
+- [Illumitech](https://www.illumitech.com.br/) — nosso software studio e a visão por trás dos produtos que construímos.
+- [IllumiFlow](https://illumiflow.com.br/) — plataforma de automação inteligente de processos e criação de agentes.
 
 ## Vamos conversar?
 
-Estou sempre aberto a trocar ideias sobre arquitetura de software, cultura ágil, liderança técnica ou inovação em geral.  
-Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/allison-yuri/) ou [Instagram](https://www.instagram.com/allsyuri.py/).  
-
----
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheZehel&theme=dracula" height="150" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheZehel&theme=dracula" height="150" alt="Top languages by repository" />
-  <img src="https://streak-stats.demolab.com?user=TheZehel&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheZehel&theme=react&radius=16&area=true&hide_border=false" height="300" alt="GitHub activity graph" />
-</div>
-
----
-
-## Redes Sociais
-
-- [LinkedIn](https://www.linkedin.com/in/allison-yuri/)  
-- [Discord](https://github.com/TheZehel#)  
-- [Instagram](https://www.instagram.com/allsyuri.py/)  
+Tenho interesse em liderança técnica, arquitetura, produtos digitais, seguros e IA aplicada a problemas reais. Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/allison-yuri/) ou conhecer a [Illumitech](https://www.illumitech.com.br/).
